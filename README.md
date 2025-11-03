@@ -2,7 +2,7 @@
   
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,githubactions,github,vscode,python,java,postman,docker,kubernetes,linux,terraform,aws,azure,gcp,mysql,prometheus,dynamodb,mongodb,postgres,linkedin" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,github,vscode,python,java,bash,docker,kubernetes,linux,terraform,aws,azure,gcp,mysql,prometheus,mongodb,postgres" />
 </a>
   <br />
 
